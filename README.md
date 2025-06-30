@@ -13,7 +13,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps"></div>
+  <img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps">
+</div>
 
 ## 💻 项目
 
@@ -24,3 +25,4 @@
 ### AI
 
 * 💡 [ai_prompt](https://github.com/wilton-wu/ai_prompt) - AI提示词工程
+* 📚 [ai-learning-code-snippets](https://github.com/wilton-wu/ai-learning-code-snippets) - AI示例代码
